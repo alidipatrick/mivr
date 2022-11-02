@@ -12,13 +12,13 @@ fr:
 # Uncomment the lines below to configure your website in a second language.
 mg:
  languageCode: mg
- contentDir: content/mg
+ contentDir: content-mg
  languageName: Malagasy
 
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
+  contentDir: content-en
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
